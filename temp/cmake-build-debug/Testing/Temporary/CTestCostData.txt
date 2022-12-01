@@ -1,7 +1,0 @@
-2plus3 26 0
-5minus2 24 0.000326292
-6multiply2 3 0
-8divide2 24 0.000306333
-2multiply3 14 0.000513336
----
-2plus3
