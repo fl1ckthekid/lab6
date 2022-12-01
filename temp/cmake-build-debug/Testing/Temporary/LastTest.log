@@ -1,0 +1,72 @@
+Start testing: Nov 30 10:23 RTZ 2 (ceia)
+----------------------------------------------------------
+1/4 Testing: 2plus3
+1/4 Test: 2plus3
+Command: "C:/Users/user/Documents/Programs/temp/cmake-build-debug/untitled.exe" "2" "3" "+"
+Directory: C:/Users/user/Documents/Programs/temp/cmake-build-debug
+"2plus3" start time: Nov 30 10:23 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+5
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found. Regex=[8
+]
+"2plus3" end time: Nov 30 10:23 RTZ 2 (ceia)
+"2plus3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: 5minus2
+2/4 Test: 5minus2
+Command: "C:/Users/user/Documents/Programs/temp/cmake-build-debug/untitled.exe" "5" "2" "-"
+Directory: C:/Users/user/Documents/Programs/temp/cmake-build-debug
+"5minus2" start time: Nov 30 10:23 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+3
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[3]
+"5minus2" end time: Nov 30 10:23 RTZ 2 (ceia)
+"5minus2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: 2multiply3
+3/4 Test: 2multiply3
+Command: "C:/Users/user/Documents/Programs/temp/cmake-build-debug/untitled.exe" "2" "3" "*"
+Directory: C:/Users/user/Documents/Programs/temp/cmake-build-debug
+"2multiply3" start time: Nov 30 10:23 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+6
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[6]
+"2multiply3" end time: Nov 30 10:23 RTZ 2 (ceia)
+"2multiply3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: 8divide2
+4/4 Test: 8divide2
+Command: "C:/Users/user/Documents/Programs/temp/cmake-build-debug/untitled.exe" "8" "2" "/"
+Directory: C:/Users/user/Documents/Programs/temp/cmake-build-debug
+"8divide2" start time: Nov 30 10:23 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+4
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[4]
+"8divide2" end time: Nov 30 10:23 RTZ 2 (ceia)
+"8divide2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 30 10:23 RTZ 2 (ceia)
