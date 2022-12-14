@@ -10,4 +10,3 @@ class Calculator:
   def divide(self, x1, x2):
     if x2 != 0:
       return x1/x2
-while d
